@@ -1,1 +1,1 @@
-3학년 1학기 spring legacy web, controller 부분
+3학년 1학기 스프링 레거시 수업
